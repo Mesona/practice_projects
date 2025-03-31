@@ -1,0 +1,23 @@
+/**
+ * @param {number[]} height
+ * @return {number}
+ */
+var maxArea = function(height) {
+  let start = [height[0], 0];
+  let end = [height[0], 0];
+  let currentCapacity = Math.min(start[0], end[0]) * (end[1] - start[1])
+  
+  for (let i = 0; i < height.length; i++) {
+    let currentStart = height[i];
+    for (let j = i; j < height.length; j++) {
+      let currentEnd = height[j];
+      let currentHeight = Math.min(currentStart, currentEnd);
+      let thisCapacity = currentHeight * (j - i);
+      if (thisCapacity > currentCapacity) {
+        currentCapacity = thisCapacity;
+      }
+    }
+  }
+  
+  return currentCapacity
+};

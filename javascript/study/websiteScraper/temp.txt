@@ -1,0 +1,588 @@
+Almonds
+month market
+Apples
+month market
+Apricots
+month
+Apriums
+month
+Asian pears
+month market
+Avocados
+month
+Blackberries
+month
+Blueberries
+month
+Boysenberries
+month
+Cactus pears
+month
+Cherimoyas
+month season
+Cherries
+month
+Chestnuts
+month
+Citron
+month season
+Dates
+month market
+Feijoas
+month
+Figs
+month
+Grapefruit
+month season
+Grapes
+month
+Guavas
+month
+Jujubes
+month
+Kiwi
+month market
+Kumquats
+month season
+Lemons
+month season
+Limes
+month season
+Loganberries
+month
+Loquats
+month
+Mandarins
+month season
+Melons
+month
+Mulberries
+month
+Nectarines
+month
+Olives
+month season
+Oranges
+month season
+Peaches
+month
+Peacotum
+month
+Pears
+month market
+Pecans
+month market
+Persimmons
+month market
+Pistachios
+month market
+Plums
+month
+Pluots
+month
+Pomegranates
+month
+Pomelos
+month season
+Quince
+month
+Raspberries
+month
+Rhubarb
+month
+Strawberries
+month
+Tayberries
+month
+Walnuts
+month market
+Almonds
+undefined
+Apples
+undefined
+Apricots
+undefined
+Apriums
+undefined
+Asian pears
+undefined
+Avocados
+undefined
+Blackberries
+undefined
+Blueberries
+undefined
+Boysenberries
+undefined
+Cactus pears
+undefined
+Cherimoyas
+undefined
+Cherries
+undefined
+Chestnuts
+undefined
+Citron
+undefined
+Dates
+undefined
+Feijoas
+undefined
+Figs
+undefined
+Grapefruit
+undefined
+Grapes
+undefined
+Guavas
+undefined
+Jujubes
+undefined
+Kiwi
+undefined
+Kumquats
+undefined
+Lemons
+undefined
+Limes
+undefined
+Loganberries
+undefined
+Loquats
+undefined
+Mandarins
+undefined
+Melons
+undefined
+Mulberries
+undefined
+Nectarines
+undefined
+Olives
+undefined
+Oranges
+undefined
+Peaches
+undefined
+Peacotum
+undefined
+Pears
+undefined
+Pecans
+undefined
+Persimmons
+undefined
+Pistachios
+undefined
+Plums
+undefined
+Pluots
+undefined
+Pomegranates
+undefined
+Pomelos
+undefined
+Quince
+undefined
+Raspberries
+undefined
+Rhubarb
+undefined
+Strawberries
+undefined
+Tayberries
+undefined
+Walnuts
+undefined
+Almonds
+month market
+Apples
+month market
+Apricots
+month
+Apriums
+month
+Asian pears
+month market
+Avocados
+month
+Blackberries
+month
+Blueberries
+month
+Boysenberries
+month
+Cactus pears
+month
+Cherimoyas
+month season
+Cherries
+month
+Chestnuts
+month
+Citron
+month season
+Dates
+month market
+Feijoas
+month
+Figs
+month
+Grapefruit
+month season
+Grapes
+month
+Guavas
+month
+Jujubes
+month
+Kiwi
+month market
+Kumquats
+month season
+Lemons
+month season
+Limes
+month season
+Loganberries
+month
+Loquats
+month
+Mandarins
+month season
+Melons
+month
+Mulberries
+month
+Nectarines
+month
+Olives
+month season
+Oranges
+month season
+Peaches
+month
+Peacotum
+month
+Pears
+month market
+Pecans
+month market
+Persimmons
+month market
+Pistachios
+month market
+Plums
+month
+Pluots
+month
+Pomegranates
+month
+Pomelos
+month season
+Quince
+month
+Raspberries
+month
+Rhubarb
+month
+Strawberries
+month
+Tayberries
+month
+Walnuts
+month market
+Almonds
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Apples
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Apricots
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Apriums
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Asian pears
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Avocados
+<li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Blackberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Blueberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Boysenberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Cactus pears
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Cherimoyas
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Cherries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Chestnuts
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li>
+Citron
+<li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Dates
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Feijoas
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Figs
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Grapefruit
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li>
+Grapes
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Guavas
+<li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Jujubes
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Kiwi
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Kumquats
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Lemons
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Limes
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Loganberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Loquats
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Mandarins
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Melons
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Mulberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Nectarines
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Olives
+<li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Oranges
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Peaches
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Peacotum
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Pears
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Pecans
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month market"></li><li class="month market"></li>
+Persimmons
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Pistachios
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Plums
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Pluots
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Pomegranates
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Pomelos
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Quince
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Raspberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Rhubarb
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Strawberries
+<li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Tayberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Walnuts
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month market"></li><li class="month market"></li>
+Almonds
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Apples
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Apricots
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Apriums
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Asian pears
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Avocados
+<li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Blackberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Blueberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Boysenberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Cactus pears
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Cherimoyas
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Cherries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Chestnuts
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li>
+Citron
+<li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Dates
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Feijoas
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Figs
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Grapefruit
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li>
+Grapes
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Guavas
+<li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Jujubes
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Kiwi
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Kumquats
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Lemons
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Limes
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Loganberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Loquats
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Mandarins
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Melons
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Mulberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Nectarines
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Olives
+<li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Oranges
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Peaches
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Peacotum
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Pears
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Pecans
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month market"></li><li class="month market"></li>
+Persimmons
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Pistachios
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Plums
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Pluots
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Pomegranates
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Pomelos
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Quince
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Raspberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Rhubarb
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Strawberries
+<li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Tayberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Walnuts
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month market"></li><li class="month market"></li>
+Almonds
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Apples
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Apricots
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Apriums
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Asian pears
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Avocados
+<li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Blackberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Blueberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Boysenberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Cactus pears
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Cherimoyas
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Cherries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Chestnuts
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li>
+Citron
+<li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Dates
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Feijoas
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Figs
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Grapefruit
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li>
+Grapes
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Guavas
+<li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Jujubes
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Kiwi
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Kumquats
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Lemons
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Limes
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Loganberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Loquats
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Mandarins
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Melons
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Mulberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Nectarines
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Olives
+<li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Oranges
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Peaches
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li>
+Peacotum
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Pears
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Pecans
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month market"></li><li class="month market"></li>
+Persimmons
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Pistachios
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month market"></li>
+Plums
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Pluots
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Pomegranates
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li>
+Pomelos
+<li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li>
+Quince
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Raspberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Rhubarb
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Strawberries
+<li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li>
+Tayberries
+<li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month season"></li><li class="month season"></li><li class="month season"></li><li class="month"></li><li class="month"></li><li class="month"></li><li class="month"></li>
+Walnuts
+<li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month market"></li><li class="month season"></li><li class="month market"></li><li class="month market"></li>

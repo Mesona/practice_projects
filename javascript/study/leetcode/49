@@ -1,0 +1,59 @@
+/**
+ * @param {string[]} strs
+ * @return {string[][]}
+ */
+var groupAnagrams = function(strs) {
+  let wordsHash = {};
+  let resultsHash = {};
+  for (let i = 0; i < strs.length; i++) {
+    let word = strs[i];
+    let wordHash = {};
+    for (let j = 0; j < word.length; j++) {
+      let letter = word[j];
+      if (wordHash[letter] === undefined) {
+        wordHash[letter] = 1;
+      } else {
+        wordHash[letter] += 1;
+      }
+    }
+    
+    // Check for matching hashes in wordsHash
+    let placed = false;
+    Object.keys(wordsHash).forEach( (resultsWord) => {
+      let wordsHashKeys = Object.keys(wordsHash[resultsWord])
+      let match;
+      if (word.length === 0 || resultsWord.length !== word.length) {
+        match = false;
+      } else {
+        match = true;
+      }
+      Object.keys(wordHash).forEach( (letter) => {
+        let wordsHashLetter = wordsHash[resultsWord][letter]
+        if (wordsHashLetter === undefined || wordHash[letter] > wordsHashLetter) {
+          match = false;
+        }
+      })
+      
+      if (match === true) {
+        resultsHash[resultsWord].push(word);
+        placed = true;
+      }
+    })
+    
+    if (placed === false) {
+      if (word.length === 0) {
+        if (resultsHash[word] === undefined) {
+          resultsHash[word] = [word];
+        } else {
+          resultsHash[word].push(word);
+        }
+      } else {
+        wordsHash[word] = wordHash;
+        resultsHash[word] = [word]; 
+      }
+    }
+  }
+  
+  return Object.values(resultsHash);
+    
+};

@@ -1,0 +1,23 @@
+import GoogleMapsAPI from GoogleMapsAPI;
+
+var gmAPI;
+
+var publicConfig = {
+  key: 'AIzaSyAhXsZryi0nqEHpjAspBzknmIk4XQFCkvs',
+  stagger_time:       1000, // for elevationPath
+  encode_polylines:   false,
+  secure:             true, // use https
+};
+var gmAPI = new GoogleMapsAPI(publicConfig);
+
+var params = {
+  location: "4913 Bela Dr"
+};
+
+gmi.API.placeSearch(params, function(err, result){
+        should.not.exist(err);
+        should.exist(result);
+        result.status.should.equal('OK');
+        result.results.should.be.instanceof(Array);
+        done();
+});
