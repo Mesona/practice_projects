@@ -13,10 +13,3 @@ service.findPlaceFromQuery(request, (results, status) => {
 
     console.log("YO")
 });
-
-
-
-
-
-
-// key: 'AIzaSyAhXsZryi0nqEHpjAspBzknmIk4XQFCkvs',
